@@ -1,0 +1,6 @@
+{
+  "api": "http://center.kingdee.com",
+  "imgHeader": "http://fastdfs.kingdee.com",
+  "upload": "http://file.kingdee.com",
+  "pageSize": "10"
+}
